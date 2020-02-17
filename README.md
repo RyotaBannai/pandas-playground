@@ -1,6 +1,6 @@
-This colelction is a trace of learning and also a reference for myself along with personal practice with Pandas.
+This collections are the trace of learning pandas and references of mine.
 
-No copy right, no need to ask for personal use as long as Pandas docs allows you to use.
+No copy right, no need to ask for personal use as long as pandas docs allows.
 
 Ryota Bannai
 
